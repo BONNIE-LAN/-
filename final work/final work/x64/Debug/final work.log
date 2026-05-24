@@ -1,0 +1,5 @@
+﻿  game.cpp
+D:\code\homework\experiment homework\final work\final work\game.cpp(10,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\code\homework\experiment homework\final work\final work\game.cpp(11,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\code\homework\experiment homework\final work\final work\game.cpp(12,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  final work.vcxproj -> D:\code\homework\experiment homework\final work\x64\Debug\final work.exe
