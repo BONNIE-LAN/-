@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Student.cpp
+  正在生成代码...
+D:\code\training\class training\Student class_vs\Student class_vs\Student.cpp(19,20): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\training\class training\Student class_vs\Student class_vs\Student.cpp(24,12): error C2440: “=”: 无法从“char”转换为“char *”
+      D:\code\training\class training\Student class_vs\Student class_vs\Student.cpp(24,12):
+      从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+  
+D:\code\training\class training\Student class_vs\Student class_vs\Student.cpp(30,20): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\training\class training\Student class_vs\Student class_vs\Student.cpp(38,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
