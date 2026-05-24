@@ -1,0 +1,11 @@
+#nclude <stdo.h>
+vod man()
+{
+    FILE * IN;
+    f((IN=fopen("n.txt","r"))==NULL)
+    {
+       prntf("Can&rsquo;t open n.txt!");
+       return;
+    }
+    fclose(IN);
+}
