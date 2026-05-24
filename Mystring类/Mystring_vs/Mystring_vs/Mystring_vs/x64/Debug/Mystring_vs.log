@@ -1,0 +1,33 @@
+﻿  main.cpp
+  Mystring.cpp
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\main.cpp(8,8): error C2664: “void MyString::assign(char [])”: 无法将参数 1 从“const char [61]”转换为“char []”
+      D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\main.cpp(8,15):
+      从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+      D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\MyString.h(10,10):
+      参见“MyString::assign”的声明
+      D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\main.cpp(8,8):
+      尝试匹配参数列表“(const char [61])”时
+  
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\main.cpp(15,16): error C2665: “MyString::MyString”: 没有重载函数可以转换所有参数类型
+      D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\MyString.h(8,5):
+      可能是“MyString::MyString(char [],int)”
+          D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\main.cpp(15,16):
+          “MyString::MyString(char [],int)”: 无法将参数 1 从“const char [46]”转换为“char []”
+              D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\main.cpp(15,17):
+              从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+      D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\main.cpp(15,16):
+      尝试匹配参数列表“(const char [46], int)”时
+  
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(25,15): warning C4305: “=”: 从“int”到“char”截断
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(25,15): warning C4309: “=”: 截断常量值
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(36,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(35,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(41,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(48,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(49,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(59,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(58,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(63,18): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(77,20): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(91,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...

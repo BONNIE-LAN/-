@@ -1,0 +1,6 @@
+﻿  Mystring.cpp
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(44,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(70,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(74,18): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\homework\experiment homework\Mystring类\Mystring_vs\Mystring_vs\Mystring.cpp(86,20): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  Mystring_vs.vcxproj -> D:\code\homework\experiment homework\Mystring类\Mystring_vs\x64\Debug\Mystring_vs.exe
