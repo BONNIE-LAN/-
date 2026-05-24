@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\code\homework\experiment homework\整型数组操作库\整型数组操作库vs\整型数组操作库vs\operation.h(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“main.cpp”)
+  
+D:\code\homework\experiment homework\整型数组操作库\整型数组操作库vs\整型数组操作库vs\main.cpp(196,53): warning C4018: “<”: 有符号/无符号不匹配
+  整型数组操作库vs.vcxproj -> D:\code\homework\experiment homework\整型数组操作库\整型数组操作库vs\Debug\整型数组操作库vs.exe

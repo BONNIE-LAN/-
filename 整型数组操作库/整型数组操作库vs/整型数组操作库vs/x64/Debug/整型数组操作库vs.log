@@ -1,0 +1,9 @@
+﻿  operation.cpp
+D:\code\homework\experiment homework\整型数组操作库\整型数组操作库vs\整型数组操作库vs\menu.h(1,13): warning C4081: 应输入“newline”；找到“;”
+  (编译源文件“operation.cpp”)
+  
+D:\code\homework\experiment homework\整型数组操作库\整型数组操作库vs\整型数组操作库vs\menu.h(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“operation.cpp”)
+  
+D:\code\homework\experiment homework\整型数组操作库\整型数组操作库vs\整型数组操作库vs\operation.cpp(33,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  整型数组操作库vs.vcxproj -> D:\code\homework\experiment homework\整型数组操作库\整型数组操作库vs\x64\Debug\整型数组操作库vs.exe
